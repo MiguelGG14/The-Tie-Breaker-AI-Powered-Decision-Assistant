@@ -6,7 +6,7 @@ The Tie Breaker is a full-stack decision-support web app that uses Google Gemini
 
 The app is designed to support reflection—not to make important decisions on the user's behalf.
 
-[Try the live demo](https://ais-dev-llpm352ouafxzwnrgpcc5h-182357113441.us-east1.run.app/](https://the-tiebreaker-7741.ai.studio) · [View the repository](https://github.com/MiguelGG14/The-Tie-Breaker-AI-Powered-Decision-Assistant)
+[Try the live demo](https://the-tiebreaker-7741.ai.studio) · [View the repository](https://github.com/MiguelGG14/The-Tie-Breaker-AI-Powered-Decision-Assistant)
 
 ## Features
 
